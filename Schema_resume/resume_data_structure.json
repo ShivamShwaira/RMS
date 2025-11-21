@@ -5,23 +5,18 @@
                 "first_name": "",
                 "last_name": ""
             },
-            "contact": "",
-            "emailid": "",
+            "phone": "",
+            "email": "",
             "github": "",
-            "linkedin": ""
+            "linkedin": "",
+            "location": {
+                "city": "",
+                "country": ""
+            }
         }, 
         "overview" : "",
-        "work_experience": {
-            "comment": "-----------------------------reverse chronology",
-            "company_curr": {
-                "company_name": "",
-                "position": "",
-                "responsibilities": [ ],
-                "start_date": "",
-                "end_date": "",
-                "location": ""
-            },
-            "company_prev": {
+        "work_experience": [
+            {
                 "company_name": "",
                 "position": "",
                 "responsibilities": [ ],
@@ -29,67 +24,26 @@
                 "end_date": "",
                 "location": ""
             }
-        },
-        "education": {
-            "comment": "-----------------------------reverse chronology",
-            "bachelor": {
-                "college_name" : "",
+        ],
+        "education": [
+            {
+                "level": "",
+                "institute" : "",
                 "stream": "",
-                "CGPA": "",
-                "location": "",
-                "start_date": "",
-                "end_date": ""
-            },
-            "diploma": {
-                "college_name" : "",
-                "stream": "",
-                "percentage": "",
-                "location": "",
-                "start_date": "",
-                "end_date": ""
-            },            
-            "higher_secondary": {
-                "college_name" : "",
-                "stream": "",
-                "percentage": "",
-                "location": "",
-                "start_date": "",
-                "end_date": ""
-            },
-            "secondary": {
-                "school_name" : "",
-                "percentage": "",
+                "score": "",
                 "location": "",
                 "start_date": "",
                 "end_date": ""
             }
-        },
-        "projects": {
-            "project1": {
+        ],
+        "projects": [
+            {
                 "name": "",
                 "type": "",
-                "techstack": "",
-                "description": [ ]
-            },
-            "project2": {
-                "name": "",
-                "type": "",
-                "techstack": "",
-                "description": [ ]
-            },
-            "project3": {
-                "name": "",
-                "type": "",
-                "techstack": "",
-                "description": [ ]
-            },
-            "project4": {
-                "name": "",
-                "type": "",
-                "techstack": "",
-                "description": [ ]
-            }            
-        },
+                "techstack": [],
+                "description": []
+            }          
+        ],
         "skills": {
             "languages": [],
             "backend and web": [],
