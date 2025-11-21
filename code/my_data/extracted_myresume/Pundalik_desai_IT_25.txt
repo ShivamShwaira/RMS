@@ -1,0 +1,92 @@
+Pundalik Bhiva Desai 
+B.E.  Information Technology 
+To work in an enthusiastic and supportive environment which will give me a chance to explore my
+knowledge and to add some values into the organization. 
+desaipundalik4@gmail.com 
+8698013406 
+Sindhudurg, Maharashtra, India 
+linkedin.com/in/pundalik-desai-1b4060248 
+github.com/Pundalik-Desai 
+EDUCATION 
+B.E in INFORMATION TECHNOLOGY 
+Finolex Academy of Management &
+Technology, Ratnagiri (University of Mumbai) 
+12/2021 - 05/2025,  
+CGPA- 9.35/10 
+Higher Secondary Certiﬁcate (HSC) 
+K.M.E.S & DR V.K.Toraskar Junior Collage
+Banda ,Sawantwadi 
+06/2019 - 04/2021,  
+89.17% 
+Secondary School Certiﬁcate (SSC) 
+Nootan Vidyalay Kalane School ,Dodamarg 
+06/2013 - 03/2019,  
+89.00% 
+WORK EXPERIENCE 
+Software Developer Intern 
+Pleximus Inc. Ratnagiri 
+09/2023 - 04/2024,  
+Selected for IT Mentorship Program (2023–24) at Pleximus
+Inc. under Azhar Bandri Sir. Contributed to the NGO HUB
+project with a team of interns. 
+Internship Trainee 
+Gadre Infotech Pvt. Ltd. Ratnagiri 
+06/2023,  
+I worked on an elevator simulation project using Python. 
+Front-end Web Developer Intern 
+CSRBOX 
+06/2023 - 07/2023,  
+Developed a web based platform "Shree Ganesha Grocery
+Store" using HTML, CSS ,Javascript. 
+EXTRA CURRICULAR ACTIVITIES 
+Chief Coordinator of Brainwaves Hackathon 2024. 
+Organizing Core Team Head of FAMT ACM Student's
+Chapter Working Committee 2022-23,2023-24. 
+Member of Department of Lifelong Learning And
+Extension (DLLE) unit 2022-23. 
+SKILLS 
+Core Java 
+DBMS 
+SQL & MongoDB 
+PHP 
+HTML,CSS & Javascript 
+Git & Github 
+Learning / Familiar With: Artiﬁcial Intelligence, Machine
+Learning, React, React Native 
+PROJECTS 
+Personal Agentic AI Chatbot (09/2025 - Present) 
+Built a production-ready app using LangGraph ReAct Agents with
+FastAPI, Streamlit UI, and integrated Groq/OpenAI LLMs with
+LangChain search tools. 
+VaYun -Local Placement Services App
+ (07/2024 - 04/2025) 
+Developed Android Application for blue collar workers for speciﬁc
+region.Tech stack React-Native,Node js,mongodb,express. 
+Stress Detection Using ML(2024) 
+Performed comparative analysis of classiﬁers (Naive Bayes, Logistic
+Regression). 
+WowFood (2023) 
+Developed a food ordering system for a restaurant using HTML,
+CSS, PHP, and MySQL. 
+The platform allows customers to view categories, menus, search
+functionalities, and place orders. 
+Implemented CRUD operations for admins and staﬀ to manage
+categories, food items, and order status. 
+Employee Management System (2024) 
+Created a Desktop Application using Java. Implemented CRUD
+operations to Add ,Update,View, and Delete Employee Data. 
+CERTIFICATES 
+The Complete 2023 Web Development Bootcamp 
+Instructor- Dr.Angela Yu . Udemy 
+Java Programming 
+Talent Battle 
+ACHIEVEMENTS 
+Secured 1st place in Web Hackathon 2024 organized by
+IT Department, FAMT on April 15, 2024. 
+I cleared the assessments for Java (Basic) and SQL
+(Basic) on HackerRank on June 16, 2024. 
+I participated in 'BRAINWAVES 2K23 HACKATHON' on
+February 28, 2023. 
+Tasks 
+Tasks 
+Tasks 

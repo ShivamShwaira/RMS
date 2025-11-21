@@ -1,0 +1,60 @@
+Shivam Parab
+Ó +91 8390339666
+R shivamparab26@gmail.com
+° shivamparab
+ shivamparab24
+OVERVIEW
+Computer Science and Engineering graduate specializing in AI and ML, with experience in Python, SQL, and
+data analysis. Skilled in visualization, reporting, and turning data into actionable insights, with strong teamwork
+and leadership abilities.
+WORK EXPERIENCE
+BUSINESSNEXT - Acidaes Solutions Pvt. Ltd.
+Jun 2023 - Jul 2023
+Summer Intern
+Andheri, Mumbai
+• Developed proficiency in SQL.
+• Assigned to the DataNext Delivery Team. under DSG.
+• Gained conceptual understanding of BFSI domain operations
+• Completed product training on DataNext, BusinessNext and CRMNext platforms.
+EDUCATION
+Finolex Academy of Management and Technology, Ratnagiri
+Dec 2021 - May 2025
+BE - Computer Science & Engineering (AI & ML) - CGPA: 8.25
+Ratnagiri, Maharashtra
+Pushpasen Sawant Higher Secondary School, Wadi-Humarmala
+June 2019 - May 2021
+HSC - General Science - 89.17%
+Kudal, Sindhudurg
+Don Bosco High School & Jr. College, Oros
+Jun 2008 - May 2019
+SSC - 88.60%
+Kudal, Sindhudurg
+PROJECTS
+DeepFake Audio Detection using DL and ML | Major Project
+• Python, CNN, LSTM, SVM, MFCC, Mel-spectrogram
+• Developed models to classify real vs spoofed audio.
+• Achieved 94% accuracy using CNN; 89% with LSTM; 90% with SVM.
+• Secured 1st place in Department-level Project Competition.
+Credit Card Lead Prediction | Mini Project
+• Python, ML, ANN
+• Utilised a ML model for predicting customer leads for Credit Cards.
+• Analysed model accuracy across different dataset sizes to evaluate performance.
+SignSarthi | Mini Project
+• Python, ML, NLP, Flask, React Native
+• Developed a system that translates spoken and written English into sign language visuals.
+• Increased effective communication with the hearing disabled.
+SKILLS
+Languages: SQL, Python, R & Java
+Data: EDA, Regression, Classification, Model Evaluation, Supervised & Unsupervised Learning
+Libraries & Frameworks: NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+Tools & Platforms: Jupyter Notebook, MySQL Workbench, GitHub, Microsoft Office
+Soft Skills: Communication, Teamwork, Decision Making, Attention to Detail
+CERTIFICATIONS
+• SQL - Basic & Intermediate (HackerRank)
+• Data Analysis Using Python & R (IBM & UPenn)
+• Data Analytics Internship Plan - IBM CSRBox
+• Intro to Data Analysis using Microsoft Excel
+ACHIEVEMENTS
+• Youth Voters’ Brand Ambassador (Ratnagiri) – Electoral Literacy Club
+• Co-ordinator to Cultural Team at University & State Competitions
+• Rajya Puraskar – Bharat Scouts and Guides (State Proficiency Award)

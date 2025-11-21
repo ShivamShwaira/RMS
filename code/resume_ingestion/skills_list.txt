@@ -1,0 +1,1341 @@
+python
+java
+c
+c++
+c#
+go
+rust
+scala
+javascript
+typescript
+r
+matlab
+bash
+powershell
+php
+ruby
+swift
+kotlin
+dart
+html
+css
+react
+angular
+vue.js
+next.js
+svelte
+node.js
+express.js
+django
+flask
+fastapi
+spring boot
+graphql
+rest apis
+bootstrap
+tailwind css
+websockets
+android development
+ios development
+flutter
+react native
+xamarin
+swiftui
+kotlin multiplatform
+sql
+mysql
+postgresql
+sqlite
+oracle
+microsoft sql server
+mongodb
+cassandra
+redis
+elasticsearch
+dynamodb
+couchbase
+neo4j
+bigquery
+snowflake
+redshift
+aws
+azure
+gcp
+cloud architecture
+serverless computing
+lambda
+iam
+eks
+ec2
+s3
+cloudformation
+terraform cloud
+docker
+kubernetes
+helm
+terraform
+ansible
+jenkins
+github actions
+gitlab ci
+argo cd
+prometheus
+grafana
+nginx
+apache
+cicd
+infrastructure as code
+git
+github
+gitlab
+bitbucket
+jira
+confluence
+sdlc
+scrum
+agile
+kanban
+waterfall
+project management
+requirement gathering
+machine learning
+deep learning
+nlp
+computer vision
+reinforcement learning
+transfer learning
+feature engineering
+model training
+model evaluation
+model deployment
+tensorflow
+pytorch
+keras
+scikit-learn
+xgboost
+lightgbm
+catboost
+hugging face
+transformers
+openai api
+langchain
+data engineering
+etl
+elt
+spark
+hadoop
+hive
+kafka
+airflow
+dbt
+data pipelines
+data modeling
+data warehousing
+distributed systems
+parquet
+orc
+pandas
+numpy
+matplotlib
+seaborn
+tableau
+power bi
+excel
+looker
+data visualization
+business intelligence
+hdfs
+mapreduce
+flink
+storm
+presto
+trino
+zookeeper
+delta lake
+lakefs
+mlflow
+kubeflow
+sagemaker
+vertex ai
+model registry
+model monitoring
+model serving
+unit testing
+integration testing
+pytest
+selenium
+cypress
+playwright
+postman
+api testing
+load testing
+jmeter
+automation testing
+networking
+windows server
+active directory
+vpn
+firewall
+dns
+dhcp
+subnetting
+tcp/ip
+system administration
+itil
+penetration testing
+vulnerability assessment
+soc
+siem
+owasp
+identity and access management
+threat modeling
+statistics
+probability
+linear algebra
+calculus
+optimization
+hypothesis testing
+time series analysis
+sap
+servicenow
+salesforce
+microsoft office
+ms project
+erp systems
+crm systems
+microservices
+api design
+event-driven architecture
+design patterns
+oop
+monolithic architecture
+scalability
+fault tolerance
+electrical engineering
+circuit design
+pcb design
+embedded systems
+verilog
+vhdl
+fpga
+arm cortex
+microcontrollers
+arduino
+raspberry pi
+iot
+sensor integration
+wireless communication
+power electronics
+pwm
+motor control
+hvac
+electrical safety
+matlab simulink
+electronics engineering
+signal processing
+analog electronics
+digital electronics
+communication systems
+rf design
+semiconductor devices
+network protocols
+vlsi design
+soldering
+oscilloscope operation
+mechanical engineering
+solidworks
+autocad
+catia
+ansys
+finite element analysis
+fea
+computational fluid dynamics
+cfd
+hvac design
+mechanical design
+manufacturing processes
+gd&t
+3d modeling
+robotics
+plc programming
+scada
+pneumatics
+hydraulics
+mechatronics
+cam programming
+civil engineering
+staad pro
+etabs
+revit
+autocad civil 3d
+structural design
+geotechnical engineering
+surveying
+construction management
+estimation
+primavera p6
+project scheduling
+bim
+concrete technology
+chemical engineering
+process engineering
+process simulation
+aspen hysys
+aspen plus
+thermodynamics
+mass transfer
+heat transfer
+reaction engineering
+piping design
+plant safety
+hazop
+psm
+aerospace engineering
+catia v5
+ansys fluent
+aerodynamics
+flight mechanics
+propulsion systems
+avionics
+structures analysis
+aerospace materials
+composites
+orbit mechanics
+uav design
+biomedical engineering
+medical imaging
+biomechanics
+labview
+assistive devices
+biosensors
+clinical instrumentation
+medical device regulations
+gmp compliance
+manufacturing engineering
+lean manufacturing
+six sigma
+kaizen
+5s
+value stream mapping
+quality control
+iso standards
+tqm
+root cause analysis
+industrial automation
+cnc programming
+additive manufacturing
+3d printing
+robotics engineering
+ros
+gazebo
+robot kinematics
+robot dynamics
+slam
+path planning
+motion planning
+autonomous navigation
+lidar
+computer vision for robotics
+automotive engineering
+automotive electronics
+ecu programming
+can bus
+diagnostics
+vehicle dynamics
+nvh analysis
+powertrain systems
+ev systems
+battery management systems
+autonomous driving
+materials engineering
+metallurgy
+materials testing
+failure analysis
+polymer science
+nanomaterials
+composites
+material characterization
+environmental engineering
+waste management
+water treatment
+air quality analysis
+environmental impact assessment
+renewable energy
+sustainability engineering
+industrial engineering
+operations research
+supply chain optimization
+production planning
+inventory management
+facility layout
+ergonomics
+work study
+thermodynamics
+heat transfer
+fluid mechanics
+mechanical design
+machine design
+cad design
+solidworks
+autocad mechanical
+catia
+creo
+ansys
+finite element analysis
+fea simulation
+cfd analysis
+computational fluid dynamics
+manufacturing processes
+material science
+metallurgy
+mechanics of materials
+kinematics
+dynamics
+vibrations analysis
+rotordynamics
+stress analysis
+fatigue analysis
+thermal analysis
+hvac design
+mechatronics
+robotics fundamentals
+pneumatics
+hydraulics
+industrial automation
+plc programming
+scada systems
+maintenance engineering
+predictive maintenance
+condition monitoring
+mechanical testing
+non destructive testing
+ndt methods
+quality control
+quality assurance
+lean manufacturing
+six sigma
+dfmea
+pfmea
+value engineering
+product lifecycle management
+plm systems
+geometric dimensioning and tolerancing
+gdt
+tolerance analysis
+tool design
+jigs and fixtures
+cnc machining
+cam programming
+additive manufacturing
+3d printing
+rapid prototyping
+reliability engineering
+failure analysis
+root cause analysis
+supply chain engineering
+operations management
+hvac load calculations
+piping design
+piping and instrumentation diagrams
+p&id
+boiler systems
+turbomachinery
+automotive engineering
+internal combustion engines
+engine calibration
+vehicle dynamics
+aerospace structures
+thermal systems design
+heating ventilation and air conditioning
+hvac controls
+refrigeration systems
+solar thermal systems
+wind turbine mechanics
+power plant engineering
+steam turbines
+gas turbines
+energy systems
+industrial safety
+ergonomics
+tribology
+smart manufacturing
+industry 4.0
+measuring instruments
+calibration procedures
+mechanical drafting
+technical drawing
+assembly design
+bom creation
+product design and development
+composite materials
+microfluidics
+nanomechanics
+robotic arm design
+servo systems
+gear design
+pump selection
+compressor systems
+pipelines engineering
+structural analysis
+mechanical insulation
+sheet metal design
+welding technology
+welding inspection
+thermal power systems
+mechanical project management
+mechanical cost estimation
+mechanical procurement
+rotating equipment
+static equipment
+hvac duct design
+hvac equipment selection
+valve selection
+pressure vessel design
+pumps and compressors
+mechanical workshop practices
+industrial engineering basics
+circuit analysis
+electrical circuits
+digital electronics
+analog electronics
+power electronics
+embedded systems
+microcontrollers
+microprocessors
+fpga design
+verilog
+vhdl
+rtl design
+pcb design
+pcb layout
+altium designer
+eagle pcb
+proteus design
+orcad
+electrical cad
+ecad tools
+control systems
+pid control
+automation systems
+industrial automation
+plc systems
+electrical machines
+transformers
+induction motors
+synchronous machines
+dc machines
+power systems
+power generation
+power distribution
+power transmission
+smart grid
+grid integration
+hv power systems
+lv power systems
+switchgear
+circuit breakers
+relays and protection
+protection systems
+relay coordination
+substation design
+substation automation
+load flow analysis
+fault analysis
+harmonics analysis
+scada engineering
+electrical safety
+earthing systems
+grounding design
+lightning protection
+renewable energy systems
+solar pv systems
+solar inverter design
+wind energy systems
+battery management systems
+bms design
+energy storage systems
+electric vehicles
+ev powertrain
+motor controllers
+high voltage engineering
+insulation testing
+power quality analysis
+electrical testing
+electrical inspection
+electrical maintenance
+condition monitoring
+predictive maintenance
+iec standards
+ieee standards
+electrical codes
+lighting design
+illumination engineering
+building electrical systems
+hvac electrical controls
+fire alarm systems
+access control systems
+instrumentation
+signal conditioning
+sensors and actuators
+telemetry systems
+data acquisition systems
+daq systems
+industrial sensors
+process control
+dcs systems
+industrial networking
+modbus protocol
+profibus
+ethercat
+can bus
+io-link
+embedded c
+real-time systems
+rtos
+hardware troubleshooting
+oscilloscope operation
+multimeter usage
+soldering and rework
+emc testing
+emi mitigation
+power supply design
+dc-dc converters
+ac-dc converters
+inverter design
+ups systems
+generator systems
+load estimation
+panel design
+electrical drafting
+single line diagrams
+sl d preparation
+schematic design
+electrical project management
+electrical cost estimation
+electrical procurement
+civil engineering design
+structural engineering
+structural analysis
+reinforced concrete design
+rcc design
+steel structure design
+structural drafting
+autocad civil
+staad pro
+etabs
+sap2000
+safe software
+tekla structures
+civil 3d
+revit structure
+bim modelling
+bim coordination
+bim management
+quantity surveying
+estimation and costing
+rate analysis
+bill of quantities
+boq preparation
+construction planning
+construction management
+site supervision
+site execution
+project scheduling
+primavera p6
+ms project planning
+tender preparation
+contract management
+claims management
+risk management in construction
+geotechnical engineering
+soil mechanics
+foundation engineering
+pile foundation design
+shallow foundation design
+slope stability analysis
+geotechnical investigation
+earthwork calculations
+surveying
+land surveying
+total station operation
+theodolite operation
+gps surveying
+leveling surveying
+road design
+highway engineering
+pavement design
+traffic engineering
+transportation planning
+urban planning
+town planning
+water resources engineering
+hydrology
+hydraulic engineering
+water distribution systems
+pumping systems
+water supply design
+sanitary engineering
+wastewater engineering
+stormwater drainage design
+sewer system design
+canal design
+irrigation engineering
+environmental engineering
+solid waste management
+air pollution control
+wastewater treatment
+water treatment plant design
+wtp design
+wwtp design
+ewtp systems
+earthquake engineering
+seismic design
+wind load analysis
+construction materials testing
+cement and concrete testing
+non destructive testing civil
+ndt civil methods
+quality control in construction
+quality assurance civil
+civil codes and standards
+is codes
+aci standards
+astm standards
+osha safety
+construction safety
+scaffolding safety
+reinforcement detailing
+bar bending schedule
+bbs preparation
+formwork design
+shuttering design
+retaining wall design
+culvert design
+bridge engineering
+bridge analysis
+prestressed concrete design
+precast concrete systems
+tunnel engineering
+geometric design
+topographical survey
+land development design
+drainage design
+erosion control
+sediment control
+land reclamation
+geosynthetics
+pavement materials
+asphalt technology
+bitumen testing
+geomatics
+remote sensing basics
+gis fundamentals
+civil project management
+civil cost estimation
+civil procurement
+contractor management
+chemical engineering
+process engineering
+process design
+process simulation
+chemical plant design
+chemical process optimization
+heat exchanger design
+distillation column design
+reactor design
+chemical reaction engineering
+catalysis
+thermodynamic modeling
+phase equilibrium analysis
+mass transfer operations
+heat transfer operations
+fluid flow operations
+unit operations
+aspen hysys
+aspen plus
+chemcad
+pro ii simulation
+pfd preparation
+p&id development
+process flow diagrams
+material balance
+energy balance
+process safety management
+hazop analysis
+hazid study
+risk assessment chemical
+safety instrumented systems
+sis design
+relief valve sizing
+flare system design
+hazardous area classification
+process control chemical
+pid tuning chemical
+chemical instrumentation
+batch process design
+continuous process design
+chemical plant commissioning
+chemical plant troubleshooting
+chemical manufacturing
+polymer technology
+polymer processing
+biochemical engineering
+fermentation technology
+bioprocess engineering
+drug manufacturing processes
+chemical quality control
+analytical chemistry
+chromatography techniques
+hplc analysis
+gc ms analysis
+material science chemical
+corrosion engineering
+water treatment chemical
+wastewater treatment chemical
+desalination processes
+membrane separation
+adsorption processes
+absorption processes
+chemical kinetics
+nanomaterials chemical
+fuels and combustion
+petrochemical processes
+oil and gas processing
+refinery operations
+process integration
+chemical plant utilities
+steam systems chemical
+cooling water systems
+compressed air systems
+hazmat handling
+industrial hygiene chemical
+environmental compliance chemical
+epa regulations basics
+iso 14001 chemical
+chemical project engineering
+chemical procurement
+chemical cost estimation
+biomedical engineering
+medical device design
+medical imaging
+biomechanics
+biomaterials
+tissue engineering
+cell culture techniques
+molecular biology basics
+genetic engineering basics
+clinical engineering
+hospital equipment management
+biomedical instrumentation
+medical sensors
+wearable health devices
+medical robotics
+prosthetics design
+orthotics design
+rehabilitation engineering
+bio-signal processing
+ecg analysis
+emg analysis
+eeg signal processing
+medical image analysis
+dicom image handling
+mri technology basics
+ct scan technology
+ultrasound systems
+biomedical electronics
+implant design
+drug delivery systems
+lab-on-a-chip systems
+microfluidics biomedical
+nanomedicine fundamentals
+bioreactors operation
+sterilization techniques
+gmp compliance
+iso 13485 processes
+medical device regulations
+fda 21 cfr part 820
+us fda basic compliance
+risk management medical devices
+iso 14971 application
+clinical trials basics
+biocompatibility testing
+cellular biomechanics
+biomechatronics
+neural engineering
+brain computer interface basics
+bioinstrumentation calibration
+point of care diagnostics
+biosensor design
+medical software validation
+health informatics basics
+patient monitoring systems
+surgical equipment operation
+orthopedic biomechanics
+cardiovascular devices
+biomedical signal acquisition
+biostatistics basics
+biomedical lab safety
+medical data standards
+hl7 basics
+clinical workflow understanding
+medical device prototyping
+rapid prototyping biomedical
+digital health systems
+remote patient monitoring
+medical-grade firmware basics
+biomedical project management
+biomedical quality assurance
+maintenance of medical equipment
+equipment failure analysis biomedical
+aerospace engineering
+aerodynamics
+aircraft design
+aircraft performance
+aircraft structures
+flight mechanics
+flight dynamics
+flight testing
+aerodynamic analysis
+cfd aerospace
+supersonic flow
+hypersonic flow
+boundary layer theory
+wing design
+fuselage design
+landing gear design
+propulsion systems
+jet engine basics
+gas turbine engineering
+rocket propulsion
+spacecraft design
+orbital mechanics
+trajectory analysis
+satellite systems
+avionics fundamentals
+aircraft control systems
+flight control laws
+navigation systems aerospace
+guidance and navigation
+autopilot systems
+airworthiness standards
+faa regulations basics
+easa standards basics
+structural testing aerospace
+fatigue testing aerospace
+composite structures aerospace
+lightweight materials
+payload integration
+thermal protection systems
+spacecraft thermal control
+aerospace manufacturing
+aircraft maintenance basics
+aerostructures design
+vibration testing aerospace
+wind tunnel testing
+aerospace project management
+aircraft certification basics
+unmanned aerial vehicles
+uav design
+drone systems engineering
+modeling and simulation aerospace
+ads-b systems basics
+aircraft communication systems
+automotive engineering
+vehicle dynamics
+vehicle design
+powertrain systems
+engine design
+vehicle aerodynamics
+nvh analysis
+chassis design
+suspension systems
+braking systems
+steering systems
+transmission systems
+hybrid vehicles
+electric vehicles engineering
+ev motor design
+battery technology automotive
+bms fundamentals automotive
+fuel systems automotive
+exhaust systems
+internal combustion engines basics
+engine calibration automotive
+automotive electronics
+ecu programming basics
+can bus automotive
+automotive sensors
+adas systems basics
+autonomous vehicles basics
+vehicle safety systems
+crash analysis
+emission control systems
+homologation basics
+automotive testing
+dynamometer testing
+diagnostic tools automotive
+obd systems
+vehicle manufacturing processes
+automotive quality control
+apqp processes
+ppap documentation
+fmea automotive
+dfmea automotive
+pfmea automotive
+automotive project management
+automotive ergonomics
+thermal management automotive
+infotainment systems basics
+instrumentation engineering
+industrial instrumentation
+process instrumentation
+instrument calibration
+sensor calibration
+pneumatic instruments
+electropneumatic instruments
+process measurement
+temperature measurement
+pressure measurement
+level measurement
+flow measurement
+analytical instruments
+control valves
+valve sizing
+actuators operation
+smart transmitters
+hart protocol
+foundation fieldbus
+profibus pa instrumentation
+scada instrumentation
+dcs instrumentation
+plc instrumentation
+loop checking
+instrument installation
+p&id instrumentation
+cause and effect diagrams
+process control instrumentation
+signal conditioning instrumentation
+instrument troubleshooting
+instrument index preparation
+instrument datasheets
+instrument cable sizing
+control panel design instrumentation
+instrumentation maintenance
+vibration monitoring instrumentation
+condition monitoring instrumentation
+hazardous area instrumentation
+atex basics
+ece engineering
+analog circuits
+digital circuits
+integrated circuit design
+microelectronics
+semiconductor devices
+embedded electronics
+communication systems
+digital communication
+analog communication
+wireless communication
+rf engineering
+microwave engineering
+antenna design
+signal processing
+digital signal processing
+real-time signal processing
+rf circuit design
+microwave circuits
+satellite communication
+optical communication
+fiber optics
+network theory
+mobile communication
+lte basics
+5g technology basics
+communication protocols
+vlsi design
+asic design
+fpga systems
+systemverilog basics
+cmos design
+telecommunication networks
+modulation techniques
+error control coding
+spread spectrum techniques
+mimo systems basics
+iot communication basics
+sensor networks
+telemetry communication
+electronics troubleshooting
+pcb troubleshooting
+eda tools basics
+industrial engineering
+operations research
+supply chain engineering
+process optimization
+lean principles
+six sigma methodologies
+kaizen process
+value stream mapping
+work study
+time and motion study
+method engineering
+production planning
+inventory management
+material handling systems
+facility layout design
+capacity planning
+ergonomics industrial
+quality management systems
+tqm fundamentals
+statistical process control
+spc charts
+reliability engineering industrial
+maintenance planning
+total productive maintenance
+tpm practices
+manufacturing systems
+industrial automation basics
+operations scheduling
+demand forecasting
+logistics engineering
+warehouse management
+safety engineering
+osha industrial standards
+industrial cost analysis
+resource planning
+plant layout optimization
+industrial project management
+petroleum engineering
+reservoir engineering
+drilling engineering
+production engineering
+well completion design
+well logging
+formation evaluation
+petrophysics
+reservoir simulation
+eclipse simulator basics
+petrel software basics
+well testing
+pressure transient analysis
+enhanced oil recovery
+eor techniques
+artificial lift systems
+gas lift systems
+plunger lift basics
+downhole tools
+drilling fluids
+mud engineering
+casing design
+cementing operations
+directional drilling
+horizontal drilling
+frac design
+hydraulic fracturing basics
+offshore drilling operations
+subsea engineering basics
+pipeline engineering petroleum
+flow assurance
+oil and gas processing
+gas treatment basics
+separator design
+flare system basics petroleum
+storage tank design
+petroleum economics basics
+hse in oil and gas
+api standards petroleum
+marine engineering
+ship design
+ship construction
+naval architecture
+marine propulsion systems
+diesel marine engines
+marine gas turbines
+ship stability
+buoyancy calculations
+trim and stability analysis
+ship hydrodynamics
+hull design
+marine refrigeration systems
+marine hvac systems
+ballast water systems
+bilge systems
+seawater cooling systems
+marine electrical systems
+shipboard automation
+marine control systems
+engine room operations
+marine safety management
+solas basics
+imo standards basics
+marine surveying
+ship maintenance
+hull inspection
+corrosion control marine
+cathodic protection marine
+ship docking operations
+marine power generation
+auxiliary machinery marine
+steering gear systems
+cargo handling systems
+marine fuel systems
+marine boilers
+marine turbines
+marine shafting systems
+ship vibration analysis
+ship noise control
+ship navigation fundamentals
+marine charts basics
+marine communication systems
+gmdss basics
+ship stability software basics
+mining engineering
+surface mining
+underground mining
+mine planning
+mine design
+drilling and blasting
+rock mechanics
+mine ventilation
+mine safety
+mine surveying
+mineral processing
+ore dressing
+crushing and grinding
+froth flotation
+gravity separation
+magnetic separation
+hydrometallurgy
+pyrometallurgy
+extractive metallurgy
+metallurgical testing
+metallurgical lab operations
+iron and steel metallurgy
+non ferrous metallurgy
+smelting processes
+refining processes
+blast furnace operations
+furnace design
+foundry technology
+casting processes
+welding metallurgy
+material failure analysis metallurgy
+corrosion metallurgy
+mine environment control
+mine drainage systems
+geomechanics
+geostatistics basics
+resource estimation
+mine equipment maintenance
+heavy earth moving machinery basics
+haulage systems mining
+mining explosives handling
+mine risk assessment
+mining regulations basics
+agricultural engineering
+farm machinery design
+tractor systems
+soil mechanics agricultural
+irrigation engineering agriculture
+sprinkler irrigation
+drip irrigation systems
+water resource management agriculture
+agricultural hydraulics
+post harvest technology
+food processing engineering
+farm power systems
+crop processing machinery
+agricultural structures design
+greenhouse design
+rural electrification basics
+precision agriculture
+gps based farming
+gis in agriculture
+agricultural robotics basics
+farm automation
+controlled environment agriculture
+agricultural waste management
+biogas systems
+agro machinery maintenance
+soil testing methods
+crop storage systems
+grain drying systems
+aquaculture engineering basics
+dairy engineering basics
+agricultural project management
+environmental engineering
+air pollution engineering
+water pollution control
+solid waste management engineering
+hazardous waste management
+environmental impact assessment
+eia preparation
+environmental auditing
+wastewater treatment design
+stp design
+effluent treatment plant
+etp design
+air quality monitoring
+water quality monitoring
+noise pollution control
+environmental modeling
+gis environmental applications
+hydrogeology basics
+groundwater modeling
+contaminated site remediation
+bioremediation
+phytoremediation
+landfill design
+leachate management
+climate change modeling basics
+carbon footprint assessment
+renewable energy planning basics
+environmental risk assessment
+life cycle analysis
+lca basics
+environmental compliance
+iso 14001 implementation
+environmental laws basics
+sustainable engineering
+green building concepts
+leed basics
+environmental sampling techniques
+environmental lab testing
+geological engineering
+geophysics engineering
+mineral exploration
+petrology basics
+structural geology
+sedimentology basics
+stratigraphy basics
+geological mapping
+remote sensing geology
+seismic interpretation
+seismic data processing
+gravity surveys
+magnetic surveys
+geophysical logging
+well log interpretation
+reservoir characterization geology
+groundwater geology
+hydrogeological surveys
+geotechnical site investigation geology
+rock sampling techniques
+core analysis basics
+geomechanical modeling
+earthquake studies basics
+volcanology basics
+geohazard assessment
+landslide analysis
+geomorphology basics
+natural resource exploration
+geochemical analysis basics
+drilling geology
+mud logging basics
+petrography basics
+tectonics fundamentals
+mineral identification
+ore deposit geology
+numerical modeling geology
+subsidence analysis
+environmental geology basics
