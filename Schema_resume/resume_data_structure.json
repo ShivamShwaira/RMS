@@ -1,0 +1,106 @@
+{
+    "profile" : {
+        "demographics": {
+            "name": {
+                "first_name": "",
+                "last_name": ""
+            },
+            "contact": "",
+            "emailid": "",
+            "github": "",
+            "linkedin": ""
+        }, 
+        "overview" : "",
+        "work_experience": {
+            "comment": "-----------------------------reverse chronology",
+            "company_curr": {
+                "company_name": "",
+                "position": "",
+                "responsibilities": [ ],
+                "start_date": "",
+                "end_date": "",
+                "location": ""
+            },
+            "company_prev": {
+                "company_name": "",
+                "position": "",
+                "responsibilities": [ ],
+                "start_date": "",
+                "end_date": "",
+                "location": ""
+            }
+        },
+        "education": {
+            "comment": "-----------------------------reverse chronology",
+            "bachelor": {
+                "college_name" : "",
+                "stream": "",
+                "CGPA": "",
+                "location": "",
+                "start_date": "",
+                "end_date": ""
+            },
+            "diploma": {
+                "college_name" : "",
+                "stream": "",
+                "percentage": "",
+                "location": "",
+                "start_date": "",
+                "end_date": ""
+            },            
+            "higher_secondary": {
+                "college_name" : "",
+                "stream": "",
+                "percentage": "",
+                "location": "",
+                "start_date": "",
+                "end_date": ""
+            },
+            "secondary": {
+                "school_name" : "",
+                "percentage": "",
+                "location": "",
+                "start_date": "",
+                "end_date": ""
+            }
+        },
+        "projects": {
+            "project1": {
+                "name": "",
+                "type": "",
+                "techstack": "",
+                "description": [ ]
+            },
+            "project2": {
+                "name": "",
+                "type": "",
+                "techstack": "",
+                "description": [ ]
+            },
+            "project3": {
+                "name": "",
+                "type": "",
+                "techstack": "",
+                "description": [ ]
+            },
+            "project4": {
+                "name": "",
+                "type": "",
+                "techstack": "",
+                "description": [ ]
+            }            
+        },
+        "skills": {
+            "languages": [],
+            "backend and web": [],
+            "Cloud Platforms": [],
+            "Databases": [],
+            "DevOps & CI/CD": [],
+            "Tools & Collaboration": [],
+            "Soft Skill": []
+        },
+        "certifications": [],
+        "achievements": [],
+        "extracurricular": []
+    }
+}

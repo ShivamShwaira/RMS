@@ -1,9 +1,7 @@
 import json
 from docxtpl import DocxTemplate
 
-# --------------------------------------------------------
-# Utility: clean bullet points
-# --------------------------------------------------------
+
 def split_points(text):
     if not text:
         return []
@@ -13,9 +11,7 @@ def split_points(text):
     return [p.strip() for p in text.split("|") if p.strip()]
 
 
-# --------------------------------------------------------
-# Normalize EDUCATION
-# --------------------------------------------------------
+
 def normalize_education(education_raw):
     EDUCATION = []
 
@@ -49,9 +45,7 @@ def normalize_education(education_raw):
     return EDUCATION
 
 
-# --------------------------------------------------------
-# Normalize EXPERIENCE
-# --------------------------------------------------------
+
 def normalize_experience(experience_raw):
     EXPERIENCE = []
 
@@ -87,9 +81,7 @@ def normalize_experience(experience_raw):
     return EXPERIENCE
 
 
-# --------------------------------------------------------
-# Normalize Projects
-# --------------------------------------------------------
+
 def normalize_projects(projects_raw):
     PROJECTS = []
 
@@ -109,9 +101,7 @@ def normalize_projects(projects_raw):
     return PROJECTS
 
 
-# --------------------------------------------------------
-# MAIN FUNCTION
-# --------------------------------------------------------
+
 def fill_resume_from_json(template_path, json_path, output_path):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
