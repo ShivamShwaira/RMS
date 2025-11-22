@@ -6,9 +6,8 @@
             "email": "",
             "github": "",
             "linkedin": "",
-            "location": {
-                "city": "",
-                "country": ""
+            "city": "",
+            "country": "",
             }
         }, 
         "overview" : "",
@@ -61,7 +60,6 @@
                 "category": "",
                 "skills_gained": []
             }
-
         ],
         "achievements": [
             {
