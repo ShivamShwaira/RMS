@@ -6,10 +6,8 @@
             "email": "",
             "github": "",
             "linkedin": "",
-            "location": {
-                "city": "",
-                "country": ""
-            }
+            "city": "",
+            "country": ""
         }, 
         "overview" : "",
         "work_experience": [
