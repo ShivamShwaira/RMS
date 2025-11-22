@@ -1,10 +1,7 @@
 {
-    "profile" : {
-        "demographics": {
-            "name": {
-                "first_name": "",
-                "last_name": ""
-            },
+        "profile": {
+            "first_name": "",
+            "last_name": "",
             "phone": "",
             "email": "",
             "github": "",
@@ -53,8 +50,37 @@
             "Tools & Collaboration": [],
             "Soft Skill": []
         },
-        "certifications": [],
-        "achievements": [],
-        "extracurricular": []
-    }
+        "certifications": [
+            {
+                "name": "",
+                "issued_by": "",
+                "issued_date": "",
+                "validity": "",
+                "credential_id": "",
+                "credential_url": "",
+                "category": "",
+                "skills_gained": []
+            }
+
+        ],
+        "achievements": [
+            {
+                "title": "",
+                "description": "",
+                "date": "",
+                "type": "",
+                "impact": "",
+                "associated_with": ""
+            }
+        ],
+        "extracurricular": [
+            {
+                "activity_name": "",
+                "role": "",
+                "organization": "",
+                "duration": "",
+                "description": ""
+            }
+        ]
+    
 }
